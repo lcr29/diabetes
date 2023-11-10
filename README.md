@@ -6,7 +6,7 @@ User-Friendly Interface: Simple and intuitive interface for inputting health-rel
 Real-Time Predictions: Instantly get predictions upon entering your data.
 Data-Driven Insights: The app leverages a machine learning model for its predictions, ensuring data-driven insights.
 
-#How It Works
+# How It Works
 Users provide various health-related inputs, including:
 
 Gender
