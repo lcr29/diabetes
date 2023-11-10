@@ -8,7 +8,6 @@ Data-Driven Insights: The app leverages a machine learning model for its predict
 
 # How It Works
 Users provide various health-related inputs, including:
-
 Gender
 Age
 Presence of Hypertension and Heart Disease
