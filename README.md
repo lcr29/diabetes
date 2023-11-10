@@ -1,5 +1,5 @@
 # Diabetes Prediction App
-## Overview
+# Overview
 This Diabetes Prediction application is designed to predict the likelihood of a person having diabetes based on various health parameters. It's built using Streamlit and integrates a machine learning model for predictions.
 
 # Features
